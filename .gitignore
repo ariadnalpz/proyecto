@@ -1,0 +1,16 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos generados por el IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de compilación de React
+build/
+dist/
+
+# Ignorar archivos de logs
+*.log
