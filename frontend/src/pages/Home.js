@@ -37,7 +37,7 @@ const Home = () => {
     return (
         <div style={styles.container}>
             <h1 style={styles.title}>Bienvenido a mi Inicio!</h1>
-            <h2 style={styles.subtitle}>Práctica 1 - Ariadna López</h2>             {message && <p style={styles.message}>{message}</p>}
+            <h2 style={styles.subtitle}>Práctica 1 - Ariadna López</h2> {message && <p style={styles.message}>{message}</p>}
             <button onClick={handleLogout} style={styles.button}>
                 Logout
             </button>
