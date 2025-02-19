@@ -1,6 +1,6 @@
 # Ignorar node_modules
 node_modules/
-backend/serviceAccountKey.js
+serviceAccountKey.js
 
 # Ignorar archivos de entorno
 .env
