@@ -79,7 +79,7 @@ const styles = {
         width: '300px',
         padding: '20px',
         borderRadius: '10px',
-        boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)',
+        boxShadow: '0 4px 10px rgb(149, 0, 255)',
         background: '#ffffff',
     },
     title: {
